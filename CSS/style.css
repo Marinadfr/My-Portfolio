@@ -244,6 +244,7 @@ footer ul {
   font-size: 3rem;
 }
 
+/* responsive */
 @media (min-width: 800px) {
   article {
     display: grid;
